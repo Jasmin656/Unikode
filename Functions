@@ -1,0 +1,20 @@
+Arithmetic Operators
+
+k=int(input())
+m=int(input())
+print(k+m)
+print(k-m)
+print(k*m)
+print(k/m)
+print(k//m)
+print(k%m)
+
+Sqaure Root
+
+n=int(input())
+print(n**2)
+
+Cube Root
+
+a=int(input())
+print(a**3)
